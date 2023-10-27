@@ -1,1 +1,3 @@
-# E-commerce_El-Buen-Sabor
+# Proyecto gestor de organización
+
+FrontEnd de landing page.
